@@ -1,0 +1,21 @@
+{
+    "doctors": [
+        { "id": 1, "name": "egemen", "surname": "çelik", "email" : "egemen.celikx@gmail.com", "phone": "05392562347", "department": "kardiyoloji", "hospital": "istanbul"},
+        { "id": 1, "name": "egemen", "surname": "çelik", "email" : "egemen.celikx@gmail.com", "phone": "05392562347", "department": "kardiyoloji", "hospital": "istanbul"},
+        { "id": 1, "name": "egemen", "surname": "çelik", "email" : "egemen.celikx@gmail.com", "phone": "05392562347", "department": "kardiyoloji", "hospital": "istanbul"},
+        { "id": 1, "name": "egemen", "surname": "çelik", "email" : "egemen.celikx@gmail.com", "phone": "05392562347", "department": "kardiyoloji", "hospital": "istanbul"},
+        { "id": 1, "name": "egemen", "surname": "çelik", "email" : "egemen.celikx@gmail.com", "phone": "05392562347", "department": "kardiyoloji", "hospital": "istanbul"},
+        { "id": 1, "name": "egemen", "surname": "çelik", "email" : "egemen.celikx@gmail.com", "phone": "05392562347", "department": "kardiyoloji", "hospital": "istanbul"}
+    ],
+    "hospitals": [
+         {"id": 1, "hospital_name": "acıbadem", "phone" : "02164291153", "city": "istanbul", "email" : "acıbadem@gmail.com"}
+    ],
+    "users" : [
+        { "id": 1, "name": "egemen", "surname": "çelik", "email" : "egemen.celikx@gmail.com", "phone": "05392562347", "blood_type" : "0rh-", "tcno" :"40627779865"},
+        { "id": 2, "name": "melih", "surname": "ensar", "email" : "melih.ensar@gmail.com", "phone": "0532453467", "blood_type" : "0rh+", "tcno" :"40624589865"},
+        { "id": 3, "name": "nazli", "surname": "yanik", "email" : "nazli.yanik@gmail.com", "phone": "0532234467", "blood_type" : "0rh+", "tcno" :"56624589865"}
+    ],
+    "appointments": [
+        {}
+    ]
+  }

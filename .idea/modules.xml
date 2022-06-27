@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Back-end Sql/Hasscript.iml" filepath="$PROJECT_DIR$/Back-end Sql/Hasscript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backEnd-mongo/HasscriptMongo.iml" filepath="$PROJECT_DIR$/backEnd-mongo/HasscriptMongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/devOpsCode-master.iml" filepath="$PROJECT_DIR$/.idea/devOpsCode-master.iml" />
+    </modules>
+  </component>
+</project>
